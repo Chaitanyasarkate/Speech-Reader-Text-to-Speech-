@@ -2,6 +2,7 @@ A sleek, interactive web application featuring a dark-themed gradient UI with gl
 
 
 Key Features
+
 ✅ Elegant Dark Gradient Background – Smooth transition from deep navy (#0f2027) to teal (#2c5364) for a professional look.
 ✅ Glassmorphism Design – Frosted glass effects on inputs and containers (backdrop-filter: blur()).
 ✅ Interactive Form Elements – Stylish text areas, dropdowns, and buttons with hover/focus animations.
@@ -11,6 +12,7 @@ Key Features
 
 
 Tech Stack
+
 HTML5 – Semantic structure
 
 CSS3 – Flexbox, gradients, custom scrollbars, and animations
@@ -19,6 +21,7 @@ Glassmorphism – Semi-transparent UI elements with blur effects
 
 
 Use Cases
+
 Data Dashboards – Clean display for analytics or visualization
 
 Web Applications – Forms, settings panels, or admin interfaces
