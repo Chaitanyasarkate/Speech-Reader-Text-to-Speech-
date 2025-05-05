@@ -26,4 +26,4 @@ Data Dashboards – Clean display for analytics or visualization
 
 Web Applications – Forms, settings panels, or admin interfaces
 
-Portfolio Projects – Showcases modern CSS techniques
+Portfolio Projects – Showcases modern CSS techniques 
