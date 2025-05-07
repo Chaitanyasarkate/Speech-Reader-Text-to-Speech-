@@ -1,4 +1,6 @@
-A sleek, interactive web application featuring a dark-themed gradient UI with glassmorphism effects, designed for a clean and modern user experience. This project showcases smooth animations, responsive form elements, and a cohesive color scheme that enhances readability while maintaining visual appeal.
+A sleek, interactive web application featuring a dark-themed gradient UI with glassmorphism effects, designed for a clean and modern user experience. 
+This project showcases smooth animations, responsive form elements, and a cohesive color scheme that enhances readability while maintaining visual appeal.
+
 
 
 Key Features
@@ -9,6 +11,7 @@ Key Features
 ✅ Custom UI Components – Enhanced <select> dropdown with SVG arrow, subtle shadows, and rounded corners.
 ✅ Responsive Layout – Centered flexbox design that works on all screen sizes.
 ✅ Modern Aesthetic – Cyan/teal accent colors (#00c6ff, #0072ff) with smooth transitions.
+
 
 
 Tech Stack
