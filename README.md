@@ -6,10 +6,15 @@ This project showcases smooth animations, responsive form elements, and a cohesi
 Key Features
 
 ✅ Elegant Dark Gradient Background – Smooth transition from deep navy (#0f2027) to teal (#2c5364) for a professional look.
+
 ✅ Glassmorphism Design – Frosted glass effects on inputs and containers (backdrop-filter: blur()).
+
 ✅ Interactive Form Elements – Stylish text areas, dropdowns, and buttons with hover/focus animations.
+
 ✅ Custom UI Components – Enhanced <select> dropdown with SVG arrow, subtle shadows, and rounded corners.
+
 ✅ Responsive Layout – Centered flexbox design that works on all screen sizes.
+
 ✅ Modern Aesthetic – Cyan/teal accent colors (#00c6ff, #0072ff) with smooth transitions.
 
 
