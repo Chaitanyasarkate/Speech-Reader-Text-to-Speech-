@@ -29,7 +29,6 @@ Glassmorphism – Semi-transparent UI elements with blur effects
 
 
 Use Cases
-
 Data Dashboards – Clean display for analytics or visualization
 
 Web Applications – Forms, settings panels, or admin interfaces
