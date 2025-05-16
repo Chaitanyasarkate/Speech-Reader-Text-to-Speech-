@@ -20,6 +20,7 @@ Key Features
 
 
 Tech Stack
+
 HTML5 – Semantic structure
 
 CSS3 – Flexbox, gradients, custom scrollbars, and animations
