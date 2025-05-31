@@ -2,7 +2,6 @@ A sleek, interactive web application featuring a dark-themed gradient UI with gl
 This project showcases smooth animations, responsive form elements, and a cohesive color scheme that enhances readability while maintaining visual appeal.
 
 
-
 Key Features
 
 ✅ Elegant Dark Gradient Background – Smooth transition from deep navy (#0f2027) to teal (#2c5364) for a professional look.
