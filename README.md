@@ -17,7 +17,6 @@ Key Features
 ✅ Modern Aesthetic – Cyan/teal accent colors (#00c6ff, #0072ff) with smooth transitions.
 
 
-
 Tech Stack
 
 HTML5 – Semantic structure
