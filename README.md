@@ -4,7 +4,6 @@ This project showcases smooth animations, responsive form elements, and a cohesi
 
 Key Features
 
-
 ✅ Elegant Dark Gradient Background – Smooth transition from deep navy (#0f2027) to teal (#2c5364) for a professional look.
 
 ✅ Glassmorphism Design – Frosted glass effects on inputs and containers (backdrop-filter: blur()).
